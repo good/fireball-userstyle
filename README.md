@@ -7,7 +7,7 @@ And, lastly, [here's the page for this style on Userstyles](https://userstyles.o
 
 ## Desktop
 
-![Desktop screenshot](http://d.pr/i/EF2TtH+)
+![Desktop screenshot](http://d.pr/i/eqFGQf+)
 
 ## Single-column "mobile" style
 
