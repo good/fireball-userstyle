@@ -11,4 +11,4 @@ And, lastly, [here's the page for this style on Userstyles](https://userstyles.o
 
 ## Single-column "mobile" style
 
-![Mobile screenshot](http://d.pr/i/glC8Ib+)
+![Mobile screenshot](http://d.pr/i/16yjfI+)
