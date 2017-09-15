@@ -11,7 +11,7 @@ body, h1, h2, h3, h4, h5, h6 { font-family: system, -apple-system, ".SFNSDisplay
 html>body div#Sidebar { width: 25%; top: 150px; }
 #BannerPromo { width: 300px; }
 #Banner img { height: 70px; }
-#SidebarTheDeck p { width: auto; margin-left: 0; }
+#SidebarMartini p { width: auto; margin-left: 0; }
 
 @media (max-width: 800px) {
     #Banner { margin-left: 0; }
@@ -25,9 +25,8 @@ html>body div#Sidebar { width: 25%; top: 150px; }
     #Sidebar ul { margin-bottom: 1em; }
     #Sidebar li { width: 49%; display: inline-block; text-align: center; }
     #Sidebar li:nth-child(2) { display: none; }
-    #SidebarTheDeck { margin: 0 0 3em; text-align: center; }
-    #SidebarTheDeck p { font-size: .8em; margin: .5em 0 0 0; padding: 0; }
-    #SidebarTheDeck #ViaTheDeck { margin: 0 !important; padding: 0; }
+    #SidebarMartini { max-width: 85%; margin: 0 auto 3em; text-align: center; }
+    #SidebarMartini p { font-size: .8em; margin: .5em 0 0 0; padding: 0; }
     #Banner { margin: 1em auto; }
     #Sidebar > p { text-align: center; margin: 0 0 2em; }
 }
